@@ -1,5 +1,4 @@
 package com.feiniaojin.ddd;
 
-public interface EntityId<T> {
-    T getEntityIdValue();
+public interface EntityId<T> extends ValueObject<T>{
 }
