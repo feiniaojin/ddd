@@ -1,0 +1,4 @@
+com/feiniaojin/ddd/EntityId.class
+com/feiniaojin/ddd/AbstractDomainMask.class
+com/feiniaojin/ddd/ValueObject.class
+com/feiniaojin/ddd/DomainRepository.class
